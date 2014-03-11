@@ -6,7 +6,6 @@ gem 'rails', '4.0.2'
 
 #authentication
 gem 'devise'
-
 #mysql 
 group	 :test do
 	gem 'mysql2'
